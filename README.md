@@ -35,3 +35,19 @@ To run this app locally, you need to install the required dependencies. These ca
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+### Running the App
+To start the app:
+
+```bash
+python -m shiny run app.py
+```
+
+### Using the App
+- **Keyword Input:** Enter the keywords related to your research topic.
+- **Set the Article Limit:** Specify the maximum number of articles you want to retrieve.
+- **Retrieve Articles:** The app will fetch the articles and display links, summaries, and a word cloud.
+- **Explore the Knowledge Graph:** Visualize connections between key concepts in the articles.
+- **Interact with the Chatbot:** Ask questions about the summaries or dive deeper into specific aspects of the articles.
