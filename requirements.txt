@@ -1,0 +1,16 @@
+openai
+python-dotenv
+llama-index
+llama-index-agent-openai
+llama-index-embeddings-openai
+llama-index-llms-openai
+beautifulsoup4
+nest-asyncio
+shiny
+selenium
+webdriver-manager
+requests-html
+pyvis
+scholarly
+requests 
+feedparser

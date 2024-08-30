@@ -1,0 +1,106 @@
+[
+    {"Main Topic": "SPP1", "Subtopic": "Idiopathic Pulmonary Fibrosis"},
+    {"Main Topic": "SPP1", "Subtopic": "M2 Macrophage Polarization"},
+    {"Main Topic": "SPP1", "Subtopic": "JAK2/STAT3 Pathway"},
+    {"Main Topic": "SPP1", "Subtopic": "Therapeutic Targets"},
+    
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "Rheumatoid Arthritis"},
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "Non-coding RNAs"},
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "Biomarkers"},
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "Gene Therapy"},
+    
+    {"Main Topic": "Nanotechnology", "Subtopic": "Photo-Acoustic Imaging"},
+    {"Main Topic": "Nanotechnology", "Subtopic": "Biomedical Imaging"},
+    {"Main Topic": "Nanotechnology", "Subtopic": "Nanomaterials"},
+    
+    {"Main Topic": "Artificial Intelligence", "Subtopic": "Bacterial Infections"},
+    {"Main Topic": "Artificial Intelligence", "Subtopic": "Clinical Integration"},
+    {"Main Topic": "Artificial Intelligence", "Subtopic": "Epidemiological Studies"},
+    
+    {"Main Topic": "Nanoparticles", "Subtopic": "Cancer Research"},
+    {"Main Topic": "Nanoparticles", "Subtopic": "Neurodegenerative Research"},
+    
+    {"Main Topic": "Nano-drug Delivery Systems", "Subtopic": "Metabolic Dysfunction"},
+    {"Main Topic": "Nano-drug Delivery Systems", "Subtopic": "Enhanced Drug Efficacy"},
+    
+    {"Main Topic": "Laryngeal Cancer", "Subtopic": "Relative Survival Trends"},
+    {"Main Topic": "Laryngeal Cancer", "Subtopic": "Treatment Protocols"},
+    
+    {"Main Topic": "DDX3X", "Subtopic": "PRRSV Infection"},
+    {"Main Topic": "DDX3X", "Subtopic": "Ferroptosis"},
+    
+    {"Main Topic": "Deep Learning", "Subtopic": "Lung CT Imaging"},
+    {"Main Topic": "Deep Learning", "Subtopic": "Segmentation Performance"},
+    
+    {"Main Topic": "MARes-Net", "Subtopic": "Jaw Cyst Segmentation"},
+    
+    {"Main Topic": "Mitochondrial Dysfunction", "Subtopic": "Rheumatoid Arthritis"},
+    
+    {"Main Topic": "Metabolomics", "Subtopic": "CNS Infections"},
+    
+    {"Main Topic": "Matrine", "Subtopic": "Osteosarcoma Treatment"},
+    
+    {"Main Topic": "TEMPRO", "Subtopic": "Predictive Modeling"},
+    
+    {"Main Topic": "Transanal Intubation", "Subtopic": "Colorectal Anastomotic Failure"},
+    
+    {"Main Topic": "Oxidative Stress", "Subtopic": "Hepatocellular Carcinoma"},
+    
+    {"Main Topic": "Gene Therapy", "Subtopic": "Human Diseases"},
+    
+    {"Main Topic": "AI in Healthcare", "Subtopic": "Personalized Healthcare"},
+    
+    {"Main Topic": "Hepatitis E", "Subtopic": "Global Impact"},
+    
+    {"Main Topic": "Nanoparticle Immunosensors", "Subtopic": "Oral Cancer"},
+    
+    {"Main Topic": "Camrelizumab and Apatinib", "Subtopic": "Mucosal Melanoma"},
+    
+    {"Main Topic": "Luminescent Metal Complexes", "Subtopic": "Bioimaging"},
+    
+    {"Main Topic": "Human Infection Studies", "Subtopic": "Tuberculosis Vaccine Development"},
+    
+    {"Main Topic": "Exosomes", "Subtopic": "Regenerative Medicine"},
+    
+    {"Main Topic": "Phage Therapy", "Subtopic": "Bacterial Infections"},
+    
+    {"Main Topic": "Non-puerperal Mastitis", "Subtopic": "Pathophysiology"},
+    
+    {"Main Topic": "Nanotechnology", "Subtopic": "Cancer Diagnosis"},
+    
+    {"Main Topic": "mRNA Immune Cell Therapy", "Subtopic": "Nanoparticle Reprogramming"},
+    
+    {"Main Topic": "MVX-ONCO-1", "Subtopic": "Advanced Solid Tumors"},
+    
+    {"Main Topic": "Cloud-based AI", "Subtopic": "Radiology"},
+    
+    {"Main Topic": "Normal Pressure Hydrocephalus", "Subtopic": "Bibliometric Analysis"},
+    
+    {"Main Topic": "Network Biology", "Subtopic": "Biological Systems"},
+    
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "Life Sciences"},
+    
+    {"Main Topic": "Extracellular Vesicles", "Subtopic": "NSCLC"},
+    
+    {"Main Topic": "FCN1", "Subtopic": "Cancer Prognosis"},
+    
+    {"Main Topic": "CTCs and MLR", "Subtopic": "NSCLC Prognosis"},
+    
+    {"Main Topic": "Base Editors", "Subtopic": "Gene Therapy"},
+    
+    {"Main Topic": "Recurrent Ovarian Cancer", "Subtopic": "Bibliometric Study"},
+    
+    {"Main Topic": "NEAT1", "Subtopic": "Rectal Cancer"},
+    
+    {"Main Topic": "Organoids-on-a-Chip", "Subtopic": "Biomedical Research"},
+    
+    {"Main Topic": "Anti-tumor Targeted Therapy", "Subtopic": "Cancer Treatment"},
+    
+    {"Main Topic": "Cardiac Xenotransplantation", "Subtopic": "Pig Hearts"},
+    
+    {"Main Topic": "Organoid Technology", "Subtopic": "Tumor Immune Microenvironment"},
+    
+    {"Main Topic": "iMSCs and iMSC-EVs", "Subtopic": "Immune Disorders"},
+    
+    {"Main Topic": "Biomimicry", "Subtopic": "Sustainable Development Goals"}
+]
