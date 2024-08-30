@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
+
+/* Apply font, color, and bold weight to the body */
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    color: black; /* Ensures all text in the body is black */
+}
+
+/* Apply font, color, and bold weight to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+/* Apply color and bold weight to specific classes used in the app */
+.navbar, .navbar, .nav-link, .btn, .form-label, .form-control, .instruction-text {
+    color: black !important;
+    font-weight: bold !important; 
+}
+
+/* Ensure inputs and buttons have black and bold text */
+button {
+    color: black !important;
+    font-weight: bold !important;
+}
+
+label, .form-label {
+    font-weight: bold !important;
+    color: black !important;
+}
+
+/* Ensure inputs and buttons have black and bold text */
+input{
+    color: black !important;
+    font-weight: normal !important;
+}
+
+
+/* Set font size for value box content */
+.value-box-content {
+    font-weight: bold !important;
+}
